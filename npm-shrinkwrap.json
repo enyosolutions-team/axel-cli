@@ -1,6 +1,6 @@
 {
   "name": "axel-cli",
-  "version": "0.3.4",
+  "version": "0.3.10",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
@@ -797,12 +797,6 @@
       "integrity": "sha512-OCutwjDZ4aFS6PB1UZ988C4YgwlBHJd6wCeQqaLdmadZ/7e+w79+hbMUFC1QXDNCmdyoRfAFdm0RypzwR+Qpag==",
       "dev": true
     },
-    "@types/events": {
-      "version": "3.0.0",
-      "resolved": "https://registry.npmjs.org/@types/events/-/events-3.0.0.tgz",
-      "integrity": "sha512-EaObqwIvayI5a8dCzhFrjKzVwKLxjoG9T6Ppd5CEo07LRKfQ8Yokw54r5+Wq7FaBQ+yXRvQAYPrHwya1/UFt9g==",
-      "dev": true
-    },
     "@types/fs-extra": {
       "version": "8.1.1",
       "resolved": "https://registry.npmjs.org/@types/fs-extra/-/fs-extra-8.1.1.tgz",
@@ -818,12 +812,11 @@
       "integrity": "sha512-Xqg/lIZMrUd0VRmSRbCAewtwGZiAk3mEUDvV4op1tGl+LvyPcb/MIOSxTl9z+9+J+R4/vpjiCAT4xeKzH9ji1w=="
     },
     "@types/glob": {
-      "version": "7.1.1",
-      "resolved": "https://registry.npmjs.org/@types/glob/-/glob-7.1.1.tgz",
-      "integrity": "sha512-1Bh06cbWJUHMC97acuD6UMG29nMt0Aqz1vF3guLfG+kHHJhy3AyohZFFxYk2f7Q1SQIrNwvncxAE0N/9s70F2w==",
+      "version": "7.1.3",
+      "resolved": "https://registry.npmjs.org/@types/glob/-/glob-7.1.3.tgz",
+      "integrity": "sha512-SEYeGAIQIQX8NN6LDKprLjbrd5dARM5EXsd8GI/A5l0apYI1fGMWgPHSe4ZKL4eozlAyI+doUE9XbYS4xCkQ1w==",
       "dev": true,
       "requires": {
-        "@types/events": "*",
         "@types/minimatch": "*",
         "@types/node": "*"
       }
@@ -850,9 +843,9 @@
       "integrity": "sha512-kMNLM5JBcasgYscD9x/Gvr6lTAv2NVgsKtet/hm93qMyf/D1pt+7jeEZklKJKxMVmXjxbRVQQGfqDSfipYCO6w=="
     },
     "@types/minimatch": {
-      "version": "3.0.3",
-      "resolved": "https://registry.npmjs.org/@types/minimatch/-/minimatch-3.0.3.tgz",
-      "integrity": "sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==",
+      "version": "3.0.4",
+      "resolved": "https://registry.npmjs.org/@types/minimatch/-/minimatch-3.0.4.tgz",
+      "integrity": "sha512-1z8k4wzFnNjVK/tlxvrWuK5WMt6mydWWP7+zvH5eFep4oj+UkrfiJTRtjCeBXNpwaA/FYqqtb4/QS4ianFpIRA==",
       "dev": true
     },
     "@types/minimist": {
@@ -3790,9 +3783,9 @@
       "integrity": "sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA=="
     },
     "globby": {
-      "version": "11.0.0",
-      "resolved": "https://registry.npmjs.org/globby/-/globby-11.0.0.tgz",
-      "integrity": "sha512-iuehFnR3xu5wBBtm4xi0dMe92Ob87ufyu/dHwpDYfbcpYpIbrO5OnS8M1vWvrBhSGEJ3/Ecj7gnX76P8YxpPEg==",
+      "version": "11.0.4",
+      "resolved": "https://registry.npmjs.org/globby/-/globby-11.0.4.tgz",
+      "integrity": "sha512-9O4MVG9ioZJ08ffbcyVYyLOJLk5JQ688pJ4eMGLpdWLHq/Wr1D9BlriLQyL0E+jbkuePVZXYFj47QM/v093wHg==",
       "dev": true,
       "requires": {
         "array-union": "^2.1.0",
