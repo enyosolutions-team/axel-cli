@@ -37,7 +37,7 @@
     "eslint-config-oclif-typescript": "^0.1",
     "globby": "^11",
     "json-schema-faker": "^0.5.0-rcv.24",
-    "oclif": "^1.15.2",
+    "oclif": "^1.18.1",
     "ts-node": "^8",
     "typescript": "^3.3"
   },
