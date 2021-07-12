@@ -38,7 +38,7 @@
     "globby": "^11",
     "json-schema-faker": "^0.5.0-rcv.24",
     "oclif": "^1.15.2",
-    "ts-node": "^8",
+    "ts-node": "^10",
     "typescript": "^3.3"
   },
   "engines": {
